@@ -1,0 +1,7 @@
+<!--index.wxml-->
+<view>
+<view class="userinfo">
+<text>持续减少寿命</text>
+<image src="/image/image/xqc.gif" mode=""/>
+</view>
+</view>
